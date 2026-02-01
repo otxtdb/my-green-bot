@@ -16,7 +16,7 @@ jobs:
         with:
           fetch-depth: 0  # Important for rebase and push
 
-      - name: Set up Git identity as TRahulsingh
+      - name: Set up Git identity as Panda
         run: |
           git config user.name "Panda"
           git config user.email "59839261+otxtdb@users.noreply.github.com""
