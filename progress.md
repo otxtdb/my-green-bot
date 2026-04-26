@@ -531,3 +531,4 @@
 [2026-04-25 06:02:33 PM] You’re one step closer to your goal.
 [2026-04-25 09:52:52 PM] It’s not about perfection. It’s about progress.
 [2026-04-26 12:57:28 PM] Don’t break the streak — commit today!
+[2026-04-26 12:57:28 PM] Progress, not perfection.
